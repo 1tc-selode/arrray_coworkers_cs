@@ -11,7 +11,7 @@ namespace arrray_coworkers
         static void Main(string[] args)
         {
             //Odett: Tömb létrehozása
-
+            aaa
             //Patrik: Tömb adatainak összeadása
             asdasdfas
             //Máté: Eredmények kiírása
