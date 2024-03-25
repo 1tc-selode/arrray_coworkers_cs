@@ -13,7 +13,7 @@ namespace arrray_coworkers
             //Odett: Tömb létrehozása
             aaakkkkk
             //Patrik: Tömb adatainak összeadása
-            asdasdfas
+            asdasdfas köcsögsssssss
             //Máté: Eredmények kiírása
         }
     }
