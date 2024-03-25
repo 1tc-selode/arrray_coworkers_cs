@@ -19,6 +19,8 @@ namespace arrray_coworkers
                 eredmeny += tomb[i];
             }
             //Máté: Eredmények kiírása
+            Console.WriteLine($"A tömb elemeinek összege: {eredmeny}");
+            Console.ReadKey();
         }
     }
 }
