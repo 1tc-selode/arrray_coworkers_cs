@@ -15,6 +15,7 @@ namespace arrray_coworkers
             //Patrik: Tömb adatainak összeadása
             asdasdfas köcsögsssssss
             //Máté: Eredmények kiírása
+            Console.WriteLine("Máté");
         }
     }
 }
