@@ -13,9 +13,7 @@ namespace arrray_coworkers
             //Odett: Tömb létrehozása
             int[] tomb = { 1, 2, 3, 4, 5 };
             //Patrik: Tömb adatainak összeadása
-            asdasdfas köcsögsssssss
             //Máté: Eredmények kiírása
-            Console.WriteLine("Máté");
         }
     }
 }
